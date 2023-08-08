@@ -14,3 +14,10 @@
   </p>
 </div>
 
+- [Clase01 - Introducción al aprendizaje de máquina](/Clase01/)
+    - Introducción
+    - Análisis exploratorio de datos 
+- [Clase02 - Árboles de decisión y ensambles](/Clase02/)
+    - Árboles de decisión
+    - Descomposición en sesgo y varianza
+    - Ensambles
