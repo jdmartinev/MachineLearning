@@ -7,7 +7,7 @@
     <img src="logo/logo.png" alt="Logo" >
   </a>
 
-  <h3 align="center">Aprendizaje de Máquinas</h3>
+  <h3 align="center">Aprendizaje de Máquina</h3>
 
   <p align="center">
     Repositorio para el material del curso de Aprendizaje de Máquina de la Maestría en Ciencias de los Datos y Analítica de la Universidad EAFIT
