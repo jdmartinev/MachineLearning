@@ -26,4 +26,7 @@
 - [Módulo 3 - Aprendizaje no supervisado](/Clase03/)
     - Reducción de dimensión
     - Agrupamiento
-  
+- [Módulo 4 - Redes neuronales](/Clase04/)
+    - Redes neuronales artificiales
+    - Backpropagation
+    - Redes convolucionales   
