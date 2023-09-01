@@ -9,3 +9,7 @@ https://www.kaggle.com/code/juanmartinezv4399/kerasdataloader
 3. Transfer learning
 
 https://www.kaggle.com/code/juanmartinezv4399/kerastransferlearning
+
+4. Fastai
+
+https://www.kaggle.com/code/juanmartinezv4399/fastaiexample
