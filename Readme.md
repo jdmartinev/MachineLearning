@@ -29,4 +29,6 @@
 - [Módulo 4 - Redes neuronales](/Clase04/)
     - Redes neuronales artificiales
     - Backpropagation
-    - Redes convolucionales   
+    - Redes convolucionales
+    - fastai
+    - HuggingFace Hub   
