@@ -13,7 +13,7 @@ def classify_image(image):
     pred_class, pred_idx, outputs = learner.predict(img)
     return(f"Predicted class: {pred_class}")
     
-demo = gr.Interface(classify_image, gr.Image(shape=(224, 224)), "text")
+demo = gr.Interface(classify_image, gr.Image(), "text")
 demo.launch(share=True)
 
 
