@@ -1,3 +1,5 @@
+[![GitHub license](https://img.shields.io/github/license/microsoft/AI-For-Beginners.svg)](https://github.com/microsoft/AI-For-Beginners/blob/main/LICENSE)
+
 <a name="readme-top"></a>
 
 <!-- PROJECT LOGO -->
@@ -13,9 +15,6 @@
     Repositorio para el material del curso de Aprendizaje de Máquina de la Maestría en Ciencias de los Datos y Analítica de la Universidad EAFIT
   </p>
 </div>
-
-[![GitHub license](https://img.shields.io/github/license/microsoft/AI-For-Beginners.svg)](https://github.com/microsoft/AI-For-Beginners/blob/main/LICENSE)
-
 
 <table>
   <tr>
