@@ -33,7 +33,21 @@
     <th>MATERIAL</th>
     <td><a href="https://github.com/jdmartinev/MachineLearning">2024 repo</a></td>
   </tr>
-</table> 
+</table>
+
+# Resources:
+* Computational resources: I strongly recommend creating (free) accounts on the following platforms:
+  - [Google collaborative](https://colab.research.google.com/)
+  - [HuggingFace](https://huggingface.co/)
+  - [Kaggle](https://www.kaggle.com/)
+  - [LightingAI](https://lightning.ai/)
+  - [Weights and Biases](https://wandb.ai/site)
+  
+* Deep Learning books:
+  - [Deep Learning](https://www.deeplearningbook.org/)
+  - [Dive into Deep Learningas](https://d2l.ai/)
+  - [Deep Learning - Foundations and Concepts](https://www.bishopbook.com/)
+  - [Deep Learning with Python](https://github.com/fchollet/deep-learning-with-python-notebooks)
 
 
 - [Módulo 1 - Introducción al aprendizaje de máquina](/Clase01/)
