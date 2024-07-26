@@ -36,14 +36,17 @@
 </table>
 
 # Resources:
-* Computational resources: I strongly recommend creating (free) accounts on the following platforms:
+* Recursos computacionales: Recomiendo crear cuentas (gratuitas) en las siguientes plataformas:
   - [Google collaborative](https://colab.research.google.com/)
   - [HuggingFace](https://huggingface.co/)
   - [Kaggle](https://www.kaggle.com/)
   - [LightingAI](https://lightning.ai/)
   - [Weights and Biases](https://wandb.ai/site)
-  
-* Deep Learning books:
+
+* Libros de Machine Learning:
+     
+
+* Libros de Deep Learning:
   - [Deep Learning](https://www.deeplearningbook.org/)
   - [Dive into Deep Learningas](https://d2l.ai/)
   - [Deep Learning - Foundations and Concepts](https://www.bishopbook.com/)
