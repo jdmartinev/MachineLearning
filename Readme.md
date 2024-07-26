@@ -7,12 +7,22 @@
     <img src="logo/logo.png" alt="Logo" >
   </a>
 
-  <h3 align="center">Aprendizaje de Máquina</h3>
+  <h3 align="center"> # CM0891/CM0939 Aprendizaje de Máquina</h3>
 
   <p align="center">
     Repositorio para el material del curso de Aprendizaje de Máquina de la Maestría en Ciencias de los Datos y Analítica de la Universidad EAFIT
   </p>
 </div>
+
+[![GitHub license](https://img.shields.io/github/license/microsoft/AI-For-Beginners.svg)](https://github.com/microsoft/AI-For-Beginners/blob/main/LICENSE)
+
+
+| **INSTRUCTOR** | Juan David Martínez Vargas (jdmartinev@eafit.edu.co)   |
+| -------------- | -------------------------------- |
+| **LECTURES**   | Viernes 18:00 - 21:00, 17-203 |
+|                | Sábados 09:00 - 12:00, 20-315A| 
+| **MATERIAL**   | [2024 repo](https://github.com/jdmartinev/ArtificialIntelligenceIM/)  
+
 
 - [Módulo 1 - Introducción al aprendizaje de máquina](/Clase01/)
     - Introducción
