@@ -44,7 +44,10 @@
 
 * Libros de Machine Learning:
 - [Hands On Machine Learning](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
-- [Machine Learning with Pytorch and scikit-learn](https://www.amazon.com/Machine-Learning-PyTorch-Scikit-Learn-learning-ebook/dp/B09NW48MR1)    
+- [Machine Learning with Pytorch and scikit-learn](https://www.amazon.com/Machine-Learning-PyTorch-Scikit-Learn-learning-ebook/dp/B09NW48MR1)
+
+* End-to-edn project
+  - [MadeWithML](https://madewithml.com/)    
   
 * Libros de Deep Learning:
   - [Deep Learning](https://www.deeplearningbook.org/)
