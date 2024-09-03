@@ -34,6 +34,14 @@
   </tr>
 </table>
 
+# Competiciones
+
+| Competition             | Link                                          |
+|-------------------------|-----------------------------------------------|
+| Competition 1           | [Link 1]([http://example.com/competition1](https://huggingface.co/spaces/MLEAFIT/MLCompetition01))     |
+| Competition 2           | [Link 2]([http://example.com/competition2](https://huggingface.co/spaces/MLEAFIT/MLCompetition02))     |
+| Competition 3           | [Link 3]()     |
+
 # Resources:
 * Recursos computacionales: Recomiendo crear cuentas (gratuitas) en las siguientes plataformas:
   - [Google collaborative](https://colab.research.google.com/)
