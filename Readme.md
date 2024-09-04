@@ -40,7 +40,7 @@
 |-------------------------|-----------------------------------------------|
 | Competition 1           | [Link 1](https://huggingface.co/spaces/MLEAFIT/MLCompetition01)     |
 | Competition 2           | [Link 2](https://huggingface.co/spaces/MLEAFIT/MLCompetition02)    |
-| Competition 3           | [Link 3]()     |
+| Competition 3           | [Link 3](https://huggingface.co/spaces/MLEAFIT/MLCompetition03)     |
 
 # Resources:
 * Recursos computacionales: Recomiendo crear cuentas (gratuitas) en las siguientes plataformas:
