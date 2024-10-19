@@ -4,7 +4,7 @@ Para este taller vamos a utilizar la base de datos tinyImageNet que es una versi
 
 Pueden consultar la base de datos y la forma de cargarla en el siguiente link:
 
-https://www.kaggle.com/juanmartinezv4399/tinyimagenetexcercise
+https://www.kaggle.com/code/juanmartinezv4399/tinyimagenetcompetition-keras
 
 Deben realizar los siguientes pasos:
 
