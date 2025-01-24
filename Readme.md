@@ -30,7 +30,7 @@
   </tr>
   <tr>
     <th>MATERIAL</th>
-    <td><a href="https://github.com/jdmartinev/MachineLearning">2024 repo</a></td>
+    <td><a href="https://github.com/jdmartinev/MachineLearning">2025 repo</a></td>
   </tr>
 </table>
 
