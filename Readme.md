@@ -23,10 +23,10 @@
   </tr>
   <tr>
     <th rowspan="2">LECTURES</th>
-    <td>Viernes 18:00 - 21:00, 17-203</td>
+    <td>Viernes 18:00 - 21:00, 35-402</td>
   </tr>
   <tr>
-    <td>Sábados 09:00 - 12:00, 20-315A</td>
+    <td>Sábados 09:00 - 12:00, 35-402</td>
   </tr>
   <tr>
     <th>MATERIAL</th>
