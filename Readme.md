@@ -38,9 +38,9 @@
 
 | Competition             | Link                                          |
 |-------------------------|-----------------------------------------------|
-| Competition 1           | [Link 1](https://huggingface.co/spaces/MLEAFIT/MLCompetition0120251)     |
-| Competition 2           | [Link 2]([https://huggingface.co/spaces/MLEAFIT/MLCompetition02](https://huggingface.co/spaces/MLEAFIT/MLCompetition0220251))    |
-| Competition 3           | [Link 3]([https://huggingface.co/spaces/MLEAFIT/MLCompetition03](https://huggingface.co/spaces/MLEAFIT/MLCompetition0320251))     |
+| Competition 1           | [Link 1](https://huggingface.co/spaces/MLEAFIT/MLComp0120251)     |
+| Competition 2           | [Link 2](https://huggingface.co/spaces/MLEAFIT/MLCompetition0220251)    |
+| Competition 3           | [Link 3](https://huggingface.co/spaces/MLEAFIT/MLCompetition0320251)     |
 
 # Resources:
 * Recursos computacionales: Recomiendo crear cuentas (gratuitas) en las siguientes plataformas:
