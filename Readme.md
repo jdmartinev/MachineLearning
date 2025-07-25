@@ -23,10 +23,10 @@
   </tr>
   <tr>
     <th rowspan="2">LECTURES</th>
-    <td>Viernes 18:00 - 21:00, 17-203</td>
+    <td>Viernes 18:00 - 21:00, 35-402</td>
   </tr>
   <tr>
-    <td>Sábados 09:00 - 12:00, 20-315A</td>
+    <td>Sábados 09:00 - 12:00, 35-402</td>
   </tr>
   <tr>
     <th>MATERIAL</th>
@@ -38,9 +38,9 @@
 
 | Competition             | Link                                          |
 |-------------------------|-----------------------------------------------|
-| Competition 1           | [Link 1](https://huggingface.co/spaces/MLEAFIT/MLCompetition01)     |
-| Competition 2           | [Link 2](https://huggingface.co/spaces/MLEAFIT/MLCompetition02)    |
-| Competition 3           | [Link 3](https://huggingface.co/spaces/MLEAFIT/MLCompetition03)     |
+| Competition 1           | [Link 1](https://huggingface.co/spaces/MLEAFIT/MLComp0120251)     |
+| Competition 2           | [Link 2](https://huggingface.co/spaces/MLEAFIT/MLComp0220251)    |
+| Competition 3           | [Link 3](https://huggingface.co/spaces/MLEAFIT/MLComp0320251)     |
 
 # Resources:
 * Recursos computacionales: Recomiendo crear cuentas (gratuitas) en las siguientes plataformas:
