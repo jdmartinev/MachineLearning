@@ -4,5 +4,5 @@ https://www.kaggle.com/code/juanmartinezv4399/densenns
 
 3. Keras utilities, cnns, data augmentation, and transfer learning
 
-https://www.kaggle.com/code/juanmartinezv4399/convnns
+https://www.kaggle.com/code/juanmartinezv4399/l04-image-classification
 
