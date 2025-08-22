@@ -6,3 +6,7 @@ https://www.kaggle.com/code/juanmartinezv4399/densenns
 
 https://www.kaggle.com/code/juanmartinezv4399/l04-image-classification
 
+3. Competition
+
+https://huggingface.co/spaces/MLEAFIT/ConvNets
+
