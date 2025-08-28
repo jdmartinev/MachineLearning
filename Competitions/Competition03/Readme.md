@@ -17,7 +17,7 @@ Are you ready to take on the challenge and build a model that can understand mov
 
 ![Sentiment Analysis Image](https://github.com/jdmartinev/MachineLearning/raw/main/Competitions/Competition03/sentiment.jpg)
 
-For an example of the training process, you can refer to this [Kaggle notebook](https://www.kaggle.com/code/juanmartinezv4399/distilberthu
+For an example of the training process, you can refer to this [Kaggle notebook](https://www.kaggle.com/code/juanmartinezv4399/distilberthuggingface), where a model is fine-tuned for sentiment analysis using the Hugging Face `DistilBERT` model. The goal of this competition is to encourage participants to modify and improve upon the base model to achieve better results. 
 
 Deliverables:
 
